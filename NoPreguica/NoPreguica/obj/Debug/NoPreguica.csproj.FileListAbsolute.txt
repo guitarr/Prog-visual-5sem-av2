@@ -1,0 +1,9 @@
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\bin\Debug\NoPreguica.exe.config
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\bin\Debug\NoPreguica.exe
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\bin\Debug\NoPreguica.pdb
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\obj\Debug\NoPreguica.csprojResolveAssemblyReference.cache
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\obj\Debug\NoPreguica.Form1.resources
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\obj\Debug\NoPreguica.Properties.Resources.resources
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\obj\Debug\NoPreguica.csproj.GenerateResource.Cache
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\obj\Debug\NoPreguica.exe
+c:\users\ander\documents\visual studio 2015\Projects\NoPreguica\NoPreguica\obj\Debug\NoPreguica.pdb
