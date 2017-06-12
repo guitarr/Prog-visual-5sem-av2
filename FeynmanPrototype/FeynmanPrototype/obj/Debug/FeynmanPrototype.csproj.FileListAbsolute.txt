@@ -1,0 +1,10 @@
+c:\users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\bin\Debug\FeynmanPrototype.exe.config
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\bin\Debug\FeynmanPrototype.exe
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\bin\Debug\FeynmanPrototype.pdb
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.csprojResolveAssemblyReference.cache
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.Form1.resources
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.frmSobre.resources
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.Properties.Resources.resources
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.csproj.GenerateResource.Cache
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.exe
+C:\Users\ander\documents\visual studio 2015\Projects\FeynmanPrototype\FeynmanPrototype\obj\Debug\FeynmanPrototype.pdb
